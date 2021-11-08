@@ -2,4 +2,6 @@
 
 ## Contributors
 
-### Elvis Mah
+### Elvis Mahmutovic
+
+### Ronald Taylor
